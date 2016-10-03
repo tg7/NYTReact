@@ -1,0 +1,19 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tg7/NYTReact.git"
+  },
+  "author": "tg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tg7/NYTReact/issues"
+  },
+  "homepage": "https://github.com/tg7/NYTReact#readme"
+}
